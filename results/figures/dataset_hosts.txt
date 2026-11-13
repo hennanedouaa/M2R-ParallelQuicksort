@@ -1,0 +1,7 @@
+latency: cn040
+scaling: cn078
+workloads: cn198
+resources: cn198
+O0: cn104
+O2: cn209
+O3: cn037
